@@ -4,6 +4,9 @@
   les sections marquées (optionnel) si elles ne s'appliquent pas.-->
 
 <div align="center">
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Logo du Projet" width="120">
+</p>
 
 # 🚀 [À COMPLÉTER : Nom du projet]
 
