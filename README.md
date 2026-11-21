@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="[https://via.placeholder.com/150](https://imgs.search.brave.com/h_USHhC9cRm-azjPKVyY6gMxLGqpu2l3xq23bumwhVI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmltYWdlcmVz/aXplci5jb20vaW1h/Z2VzL21lbWVzL0hl/aGUtQm9pLW1lbWUt/Ny5qcGc)" alt="Logo du Projet" width="120">
+  <img alt="Hehe-Boi-meme-7" src="https://github.com/user-attachments/assets/adebdf90-dbc4-4f66-9529-c2672ef34f0f" alt="Logo du Projet" width="150">
 </p>
 
 # 📚 Cheatsheet
