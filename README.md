@@ -1,10 +1,14 @@
 <div align="center">
+<p align="center">
+  <img src="[https://via.placeholder.com/150](https://imgs.search.brave.com/h_USHhC9cRm-azjPKVyY6gMxLGqpu2l3xq23bumwhVI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb250/ZW50LmltYWdlcmVz/aXplci5jb20vaW1h/Z2VzL21lbWVzL0hl/aGUtQm9pLW1lbWUt/Ny5qcGc)" alt="Logo du Projet" width="120">
+</p>
 
 # 📚 Cheatsheet
 
 **Mémos techniques rapides, classés par thème : terminal Linux, réseau et plus à venir.**
 
 [![Licence](https://img.shields.io/github/license/Vandenberghe-Leo/cheatsheet?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/release/Vandenberghe-Leo/cheatsheet?style=flat-square)](https://github.com/Vandenberghe-Leo/cheatsheet/release)
 [![Mémos](https://img.shields.io/badge/mémos-10-blue?style=flat-square)](#-index-des-mémos)
 [![Issues](https://img.shields.io/github/issues/Vandenberghe-Leo/cheatsheet?style=flat-square)](https://github.com/Vandenberghe-Leo/cheatsheet/issues)
 
