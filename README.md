@@ -5,7 +5,7 @@
 **Mémos techniques rapides, classés par thème : terminal Linux, réseau et plus à venir.**
 
 [![Licence](https://img.shields.io/github/license/Vandenberghe-Leo/cheatsheet?style=flat-square)](LICENSE)
-[![Mémos](https://img.shields.io/badge/mémos-6-blue?style=flat-square)](#-index-des-mémos)
+[![Mémos](https://img.shields.io/badge/mémos-10-blue?style=flat-square)](#-index-des-mémos)
 [![Issues](https://img.shields.io/github/issues/Vandenberghe-Leo/cheatsheet?style=flat-square)](https://github.com/Vandenberghe-Leo/cheatsheet/issues)
 
 </div>
@@ -51,6 +51,11 @@ Ce dépôt rassemble des fiches mémo courtes et scannables, construites à part
 | Mémo | Contenu | Statut |
 | :--- | :--- | :---: |
 | [`reseau-abreviations-memo.md`](cheatsheets/reseau-abreviations-memo.md) | Glossaire de 30 sigles réseau, par thème | ✅ |
+| [`reseau-ports-memo.md`](cheatsheets/reseau-ports-memo.md) | Numéros de ports usuels par usage | ✅ |
+| [`reseau-codes-http-memo.md`](cheatsheets/reseau-codes-http-memo.md) | Codes de retour HTTP 1xx à 5xx | ✅ |
+| [`reseau-ssh-memo.md`](cheatsheets/reseau-ssh-memo.md) | SSH : clés, config, tunnels, erreurs | ✅ |
+| [`reseau-scp-memo.md`](cheatsheets/reseau-scp-memo.md) | SCP : syntaxe complète et pièges | ✅ |
+| `reseau-nmap-memo.md` | Scans de ports et de services | 🚧 |
 
 ### ➕ À venir
 
